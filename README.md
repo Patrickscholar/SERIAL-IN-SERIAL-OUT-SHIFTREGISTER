@@ -76,7 +76,7 @@ RegisterNumber: 24900019
 <img width="1470" alt="Screenshot 2024-12-07 at 9 22 44 PM" src="https://github.com/user-attachments/assets/d6c8060c-2710-4d3d-83ee-68a158aace50">
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1470" alt="Screenshot 2024-12-07 at 9 24 35 PM" src="https://github.com/user-attachments/assets/eedb3e38-ba01-4865-acc9-25573f1c262d">
+![Screenshot 2024-12-23 113416](https://github.com/user-attachments/assets/1127ada1-bb7e-4fee-88fc-69bf784216af)
 
 **RESULTS**
 
